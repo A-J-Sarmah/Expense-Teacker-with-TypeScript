@@ -113,4 +113,3 @@ const displayExpense = (): void => {
 };
 
 displayExpense();
-console.log("editing in branch")
