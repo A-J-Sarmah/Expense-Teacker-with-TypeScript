@@ -113,3 +113,4 @@ const displayExpense = (): void => {
 };
 
 displayExpense();
+console.log("Git Demo")
